@@ -1,0 +1,13 @@
+{
+  "name": "Highlands Christian Schools",
+  "short_name": "Highlands",
+  "description": "Educating for excellence since 1966. A Christ-centered preschool–8th grade school in San Bruno, CA.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0060A0",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/images/brand/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

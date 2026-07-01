@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.highlandschristian.org
+Sitemap: https://www.highlandschristian.org/sitemap.xml
